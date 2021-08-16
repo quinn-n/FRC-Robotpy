@@ -1,0 +1,2 @@
+- test range with intake.
+- calibrate scissor lift pneumatics

@@ -1,0 +1,3 @@
+Updated code to match the robot before we leave for competition.
+
+Added shuttle, made lift arms driven by motor instead of solenoid, added second intake motor, made intakes and lift motors use talons.

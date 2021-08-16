@@ -1,0 +1,1 @@
+Removed code for beam motor to auto-retract due to there being no way to tell when it is retracted when it reaches the top.

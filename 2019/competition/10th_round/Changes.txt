@@ -1,0 +1,2 @@
+Added try/except blocks around getting motor controllers in code in case one is disconnected.
+Added negative value insurance after control parabola functions.

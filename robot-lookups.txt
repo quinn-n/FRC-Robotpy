@@ -1,0 +1,4 @@
+roboRIO-773-FRC.local
+roboRIO-773-FRC
+roboRIO-773-FRC.lan
+roboRIO-773-FRC.frc-field.local

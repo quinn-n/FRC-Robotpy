@@ -1,0 +1,6 @@
+tests/
+opkg_cache/
+pip_cache/
+.installer_config
+.roborioip
+.deploy_cfg

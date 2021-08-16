@@ -1,0 +1,1 @@
+Removed gyro as it won't be on the robot. Replaced it with joystick controls.

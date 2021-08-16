@@ -1,0 +1,1 @@
+Use neural network to detect position of green Xs. Use the position of the green Xs to control motor speed.
